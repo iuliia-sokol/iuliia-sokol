@@ -35,6 +35,8 @@
 <h3>How to reach me:</h3>
 📫 avare779@gmail.com
 <br>
+<br>
+<br>
 or...
 
 <img align="right" alt="iuliia-info-pic" width="80px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia2.png"/>
