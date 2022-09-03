@@ -54,4 +54,6 @@ or...
                   
 <br>
 <br>
-<b>Glory to Ukraine!</b> :blue_heart::yellow_heart:
+<br>
+<br>
+:blue_heart::yellow_heart:<b>Glory to Ukraine!</b> :blue_heart::yellow_heart:
