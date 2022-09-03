@@ -2,7 +2,7 @@
 <img align="center" alt="iuliia-hero-pic" width="850px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliias-pic.png" />
 
 <h2>Some facts about me:</h2>
-<img align="right" alt="iuliia-info-pic" width="80px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia1.png"/> 
+<img align="right" alt="iuliia-info-pic" width="90px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia1.png"/> 
 <br>
 :crystal_ball: Making my first steps as software developer :hatching_chick:. <br>
 :crystal_ball: Former diplomat. IT enthusiast :octocat:.<br>
@@ -37,8 +37,10 @@
 <br>
 ... to be continued hopefully :panda_face:
 
-<h3>How to reach me:</h3>
-📫 avare779@gmail.com
+<h2>How to reach me:</h2>
+<h3>Via email 📫 :</h3>
+
+:email: avare779@gmail.com
 <br>
 <br>
 
@@ -50,3 +52,6 @@ or...
 
 <a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/fb.svg" width="70px"/></a>
                   
+<br>
+<br>
+<b>Glory to Ukraine!</b> :blue_heart::yellow_heart:
