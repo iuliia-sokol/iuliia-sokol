@@ -32,20 +32,17 @@
 
 ... to be continued hopefully :panda_face:
 
-<!-- ### Github Stats
-<br>
-<a href='https://github.com/iuliia-sokol/github-stats-transparent'>  
-![Stats Overview](https://raw.githubusercontent.com/iuliia-sokol/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/iuliia-sokol/github-stats-transparent/output/generated/languages.svg)
-</a>
-<br> -->
+<h3>How to reach me:</h3>
+📫 avare779@gmail.com
 
-<br>
+or...
 
-<h3>📫 How to reach me: avare779@gmail.com</h3>
-
-<br>
 <img align="right" alt="iuliia-info-pic" width="70px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia2.png"/>
 
 <h3>Find me around the web 🌎:</h3>
 
+<a href="https://www.facebook.com/yuliya.sokol/">
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/fb.png" />
+</a>
+
+                  
