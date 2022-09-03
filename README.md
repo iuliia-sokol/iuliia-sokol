@@ -8,17 +8,18 @@
   font-style: Clear Code;
   display: flex(ible) like water ; 
 } -->
-### 🧐 Some facts about me:
+<h2>Some facts about me:</h2>
 <img align="right" alt="iuliia-info-pic" width="60px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia1.png"/> 
 <br>
-:crystal_ball: Making my first steps as software developer :hatching_chick:. Former diplomat. IT enthusiast.<br>
+:crystal_ball: Making my first steps as software developer :hatching_chick:. <br>
+:crystal_ball: Former diplomat. IT enthusiast :octocat:.<br>
 :crystal_ball: Fast learner and eager to explore new technologies :checkered_flag:. <br>
 :crystal_ball: Able to switch between perfectionism and pragmatism :first_quarter_moon:. <br>
 :crystal_ball: Easily adapt to different hats (Web Developer :left_right_arrow: beginner level Designer) depending on what the project requires :flags:. <br>
 :crystal_ball: Value communication, team work and pretty code :dart:. <br>
 :crystal_ball: Able and willing to think outside the box :apple:.<br>
 <br><br>
-### 🔨 Languages and tools:
+<h2>Languages and tools:</h2>
 <img align="right" alt="iuliia-stack-pic" width="60px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia3.png"/> 
 
 
@@ -48,5 +49,7 @@
 📫 How to reach me: avare779@gmail.com
 
 <br>
-<img align="right" alt="iuliia-info-pic" width="60px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia2.png"/>Find me around the web 🌎:
+<img align="right" alt="iuliia-info-pic" width="70px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia2.png"/>
+
+Find me around the web 🌎:
 
