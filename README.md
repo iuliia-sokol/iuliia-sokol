@@ -41,5 +41,5 @@ or...
 
 <h3>Find me around the web 🌎:</h3>
 
-<a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/fb.svg" width="40px"/></a>
+<a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/fb.svg" width="40px"/></a>
                   
