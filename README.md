@@ -1,13 +1,6 @@
 
 <img align="center" alt="iuliia-hero-pic" width="850px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliias-pic.png" />
-<br>
-<!-- #iuliia-sokol { 
-  position: Ukraine :ua:; 
-  background: diplomacy :arrow_right: IT; 
-  color: :blue_heart::yellow_heart:;
-  font-style: Clear Code;
-  display: flex(ible) like water ; 
-} -->
+
 <h2>Some facts about me:</h2>
 <img align="right" alt="iuliia-info-pic" width="60px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia1.png"/> 
 <br>
@@ -37,6 +30,8 @@
 
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+... to be continued hopefully :panda_face:
+
 <!-- ### Github Stats
 <br>
 <a href='https://github.com/iuliia-sokol/github-stats-transparent'>  
@@ -46,10 +41,11 @@
 <br> -->
 
 <br>
-📫 How to reach me: avare779@gmail.com
+
+<h3>📫 How to reach me: avare779@gmail.com</h3>
 
 <br>
 <img align="right" alt="iuliia-info-pic" width="70px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia2.png"/>
 
-Find me around the web 🌎:
+<h3>Find me around the web 🌎:</h3>
 
