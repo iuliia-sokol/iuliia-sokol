@@ -37,6 +37,13 @@
 <br>
 ... to be continued hopefully :panda_face:
 
+<h2>Certificates:</h2>
+:white_check_mark: <a href="https://drive.google.com/file/d/1FnwEbvbo6Dimk88kLO_exILQj9BSQ_15/view?usp=sharing">"Basics of Web UI development 2022"</a>
+:white_check_mark: <a href="https://drive.google.com/file/d/1w2OQwjTnRcsCeXH_NKnbKDQXUabB4Yx8/view?usp=sharing">"Javascript: diving in"</a>
+:white_check_mark: <a href="https://drive.google.com/file/d/1LEAhD3FBuDVqcl-9SuTYU-k6kharTMr2/view?usp=sharing">"Web designer: the explosive start"</a>
+:white_check_mark: <a href="https://drive.google.com/file/d/1LEAhD3FBuDVqcl-9SuTYU-k6kharTMr2/view?usp=sharing">"GoIT English HTML"</a>
+:white_check_mark: <a href="https://drive.google.com/file/d/1Aq5K3VtoTA-X56KKvaQjKUymATuPoEhA/view?usp=sharing">"Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential"</a>
+
 <h2>How to reach me:</h2>
 <h3>Via email 📫 :</h3>
 
