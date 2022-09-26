@@ -44,7 +44,7 @@
 <br>
 :white_check_mark: <a href="https://drive.google.com/file/d/1LEAhD3FBuDVqcl-9SuTYU-k6kharTMr2/view?usp=sharing">"Web designer: the explosive start"</a>
 <br>
-:white_check_mark: <a href="https://drive.google.com/file/d/1LEAhD3FBuDVqcl-9SuTYU-k6kharTMr2/view?usp=sharing">"GoIT English HTML"</a>
+:white_check_mark: <a href="https://drive.google.com/file/d/13bqRVIl_zKwWI5kvHhuQjMDDlbF8vuoz/view?usp=sharing">"GoIT English HTML"</a>
 <br>
 :white_check_mark: <a href="https://drive.google.com/file/d/1Aq5K3VtoTA-X56KKvaQjKUymATuPoEhA/view?usp=sharing">"Mindshift: Break Through Obstacles to Learning and Discover Your Hidden Potential"</a>
 <br>
