@@ -38,6 +38,8 @@
 ... to be continued hopefully :panda_face:
 
 <h2>Certificates:</h2>
+:white_check_mark: <a href="https://drive.google.com/file/d/1DVa4zsrx2s8tSfrMeI9TJA7j0pnJaeBe/view?usp=share_link">"EPAM IT Marathon 2022"</a>
+<br>
 :white_check_mark: <a href="https://drive.google.com/file/d/1FnwEbvbo6Dimk88kLO_exILQj9BSQ_15/view?usp=sharing">"Basics of Web UI development 2022"</a>
 <br>
 :white_check_mark: <a href="https://drive.google.com/file/d/1w2OQwjTnRcsCeXH_NKnbKDQXUabB4Yx8/view?usp=sharing">"Javascript: diving in"</a>
