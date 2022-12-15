@@ -8,7 +8,7 @@
 :crystal_ball: Former diplomat. IT enthusiast :octocat:.<br>
 :crystal_ball: Fast learner and eager to explore new technologies :checkered_flag:. <br>
 :crystal_ball: Able to switch between perfectionism and pragmatism :first_quarter_moon:. <br>
-:crystal_ball: Easily adapt to different hats (Web Developer :left_right_arrow: beginner level Designer) depending on what the project requires :flags:. <br>
+:crystal_ball: Easily adapt to different hats (junior Front-End developer :left_right_arrow: beginner level designer) depending on what the project requires :flags:. <br>
 :crystal_ball: Value communication, team work and pretty code :dart:. <br>
 :crystal_ball: Able and willing to think outside the box :apple:.<br>
 
