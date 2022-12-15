@@ -37,6 +37,7 @@
 <img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/ps.png" />
 
 <br>
+<br>
 ... to be continued hopefully :panda_face:
 
 <h2>Certificates:</h2>
