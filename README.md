@@ -46,8 +46,6 @@
 
 <br>
 <br>
-<br>
-<br>
 ... to be continued hopefully :panda_face:
 
 <h2>Certificates:</h2>
