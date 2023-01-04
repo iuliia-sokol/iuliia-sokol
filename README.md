@@ -43,7 +43,7 @@
 
 <img align="left" alt="Figma" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
 
-
+<br>
 <br>
 <br>
 ... to be continued hopefully :panda_face:
