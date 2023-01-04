@@ -38,10 +38,10 @@
 <img align="left" alt="GitHub" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/Octocat.png" />
 
 <img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" />
-<br>
-<br>
-<br>
-<img align="left" alt="PhotoShop" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/ps.png" /> <img alt="Figma" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
+
+<img align="left" alt="PhotoShop" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/ps.png" /> 
+
+<img align="left" alt="Figma" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
 
 
 <br>
