@@ -23,6 +23,9 @@
 
 <img align="left" alt="Handlebars" width="32px" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" />
 
+
+<img align="left" alt="Webpack" width="32px" src="[https://parceljs.org/avatar.66e613b2.avif](https://banner2.cleanpng.com/20190417/yb/kisspng-webpack-computer-icons-scalable-vector-graphics-re-webpack-svg-icon-transparent-amp-png-clipart-fre-5cb79870aa3cb3.6069044115555359846973.jpg)" />
+
 <img align="left" alt="Parcel" width="32px" src="https://parceljs.org/avatar.66e613b2.avif" />
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -37,10 +40,10 @@
 
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" />
 
-<img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
+<br>
+<br>
 
-<br>
-<br>
+<img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
 
 <img align="left" alt="PhotoShop" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/ps.png" />
 
