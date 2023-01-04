@@ -15,9 +15,9 @@
 <h2>Languages and tools:</h2>
 <img align="right" alt="iuliia-stack-pic" width="80px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia3.png"/> 
 
-<img align="left" alt="Redux" width="32px" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" />
+<img align="left" alt="Redux" width="32px" height="32px" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" />
 
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="React" width="32px" height="32px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
@@ -35,9 +35,9 @@
 
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/git.png" />
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/Octocat.png" />
+<img align="left" alt="GitHub" width="32px" height="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/Octocat.png" />
 
-<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" />
+<img align="left" alt="Visual Studio Code" width="32px" height="32px" src="https://raw.githubusercontent.com/heydrdev/devtools/main/language-and-framework/vscode.png" />
 
 <br>
 <br>
@@ -45,8 +45,7 @@
 <img align="left" alt="PhotoShop" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/ps.png" />
 
 <img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
-<br>
-<br>
+
 
 <br>
 <br>
