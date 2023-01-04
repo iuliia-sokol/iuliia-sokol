@@ -78,7 +78,7 @@ or...
 
 <a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/fb.svg" width="70px"/></a>
 
-<a href="https://www.linkedin.com/in/iuliia-sokol/"><img align="left" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="70px"/></a>
+<a href="https://www.linkedin.com/in/iuliia-sokol/"><img align="left" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32px"/></a>
                   
 <br>
 <br>
