@@ -76,7 +76,7 @@ or...
 
 <h3>Find me around the web 🌎:</h3>
 
-<a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://e7.pngegg.com/pngimages/991/568/png-clipart-facebook-logo-computer-icons-facebook-logo-facebook-thumbnail.png" width="32px"/></a>
+<a href="https://www.facebook.com/yuliya.sokol/"><img align="left" alt="Facebook" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png" width="32px"/></a>
 
 <a href="https://www.linkedin.com/in/iuliia-sokol/"><img align="left" alt="Linkedin" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="32px"/></a>
                   
