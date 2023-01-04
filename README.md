@@ -41,9 +41,7 @@
 
 <br>
 <br>
-
 <img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/figma.png" />
-
 <img align="left" alt="PhotoShop" width="32px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/ps.png" />
 
 <br>
