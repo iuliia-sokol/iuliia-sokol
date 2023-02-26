@@ -23,7 +23,7 @@
 
 <img align="left" alt="Handlebars" width="32px" height="32px" src="https://i0.wp.com/blog.fossasia.org/wp-content/uploads/2017/07/handlebars-js.png?fit=500%2C500&ssl=1" />
 
-<img align="left" alt="Webpack" width="32px" height="32px" src="https://webpack.js.org/icon-square-small.85ba630cf0c5f29ae3e3.svg" />
+<img align="left" alt="Webpack" width="32px" height="32px" src="https://repository-images.githubusercontent.com/206151984/51772d00-ce6e-11e9-996b-d311d1928950" />
 
 <img align="left" alt="Parcel" width="32px" height="32px" src="https://parceljs.org/avatar.66e613b2.avif" />
 
