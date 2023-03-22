@@ -13,7 +13,7 @@
 :crystal_ball: Able and willing to think outside the box :apple:.<br>
 
 <h2>Languages and tools:</h2>
-<img align="right" alt="iuliia-stack-pic" width="80px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia3.png"/> 
+<img align="right" alt="iuliia-stack-pic" width="80px" src="https://w7.pngwing.com/pngs/450/470/png-transparent-node-js-angularjs-react-javascript-npm-node-js-angle-text-trademark.png"/> 
 
 <img align="left" alt="Node.Js" width="32px" height="32px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
 
