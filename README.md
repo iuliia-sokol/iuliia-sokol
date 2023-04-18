@@ -15,6 +15,8 @@
 <h2>Languages and tools:</h2>
 <img align="right" alt="iuliia-stack-pic" width="80px" src="https://raw.githubusercontent.com/iuliia-sokol/iuliia-sokol/main/assets/iuliia3.png"/> 
 
+<img align="left" alt="Expo" width="32px" height="32px" src="https://play-lh.googleusercontent.com/algsmuhitlyCU_Yy3IU7-7KYIhCBwx5UJG4Bln-hygBjjlUVCiGo1y8W5JNqYm9WW3s=w480-h960-rw" />
+
 <img align="left" alt="Node.Js" width="32px" height="32px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
 
 <img align="left" alt="Redux" width="32px" height="32px" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" />
