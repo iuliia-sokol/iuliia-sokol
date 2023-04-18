@@ -17,7 +17,7 @@
 
 <img align="left" alt="Expo" width="32px" height="32px" src="https://static.expo.dev/static/brand/square-512x512.png" />
 
-<img align="left" alt="Node.Js" width="32px" height="32px" src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" />
+<img align="left" alt="Node.Js" width="32px" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 
 <img align="left" alt="Redux" width="32px" height="32px" src="https://repository-images.githubusercontent.com/347723622/92065800-865a-11eb-9626-dff3cb7fef55" />
 
