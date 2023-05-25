@@ -55,7 +55,7 @@
 ... to be continued hopefully :panda_face:
 
 <h2>Certificates:</h2>
-:white_check_mark: <a href="=https://www.coursera.org/account/accomplishments/specialization/certificate/YB8SU7E7FY78">"Google Digital Marketing & E-commerce Professional Certificate"</a>
+:white_check_mark: <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YB8SU7E7FY78">"Google Digital Marketing & E-commerce Professional Certificate"</a>
 <br>
 :white_check_mark: <a href="https://drive.google.com/file/d/1BpP2jD4EvvSSAoEk2mG9qasPHxKFxBvd/view?usp=sharing">"EPAM IT Marathon 2022"</a>
 <br>
